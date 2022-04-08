@@ -3,15 +3,7 @@
   src:url('./1.ttf'); /* 修改成你的字体 */
   font-display:swap
 }
-h1#site-title {
-  font-family:Keynote!important
-}
-span#subtitle {
-  font-family:Keynote!important
-}
-a#site-name {
-  font-family:Keynote!important
-}
+
 *{
   font-family:Keynote!important
 }
